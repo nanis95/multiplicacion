@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Multiplication</string>
+    <string name="about" translatable="false">About</string>
+    <string name="desarrollar" translatable="false">Developed by:</string>
+    <string name="mult" translatable="false">Solve the operation</string>
+    <string name="resul" translatable="false">Enter a value:</string>
+    <string name="resultado" translatable="false">Result</string>
+    <string name="volver" translatable="false">Return</string>
+    <string name="msg1" translatable="false">"Perfect, You have "</string>
+    <string name="msg2" translatable="false">" tries "</string>
+    <string name="msg3" translatable="false">Congratulations, You have your exercises</string>
+    <string name="msg4" translatable="false">Wrong, Result is</string>
+</resources>

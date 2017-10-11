@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" translatable="false">Multiplicacion</string>
+    <string name="volver" translatable="false">Regresar</string>
+    <string name="desarrollar" translatable="false">Desarrollado por:</string>
+    <string name="about" translatable="false">Acerca de</string>
+    <string name="resultado" translatable="false">Resultado</string>
+    <string name="resul" translatable="false">Ingresa un valor:</string>
+    <string name="mult" translatable="false">Resuelve la operación:</string>
+    <string name="msg1" translatable="false">Correcto, Tu tienes</string>
+    <string name="msg2" translatable="false"> intentos</string>
+    <string name="msg3" translatable="false">Felicidades, terminaste tus ejercicios diarios</string>
+    <string name="msg4" translatable="false">Fallaste, El resultado es</string>
+</resources>
